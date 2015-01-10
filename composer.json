@@ -1,0 +1,8 @@
+{
+    "require": {
+        "silex/silex": "~1.2",
+        "twig/twig": "~1.16",
+        "doctrine/dbal": "~2.5",
+        "mashape/unirest-php": "~1.2"
+    }
+}
